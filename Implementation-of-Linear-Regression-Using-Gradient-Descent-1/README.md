@@ -108,6 +108,8 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ![image](https://github.com/neha074/Implementation-of-Simple-Linear-Regression-Model-Using-Gradient-descent/assets/113016903/79daa07a-1f95-4f79-93ac-dd840495aad8)
 
 3. cost function using gradient descent graph
+
+
 ![linear regression using gradient descent](ex3.png)
 
 
