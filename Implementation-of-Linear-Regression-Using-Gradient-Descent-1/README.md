@@ -16,6 +16,12 @@ To write a program to predict the profit of a city using the linear regression m
 
 4.Gradient Descent
 
+5. compute cost function graph
+
+6. compute prediction graph
+
+ 
+
 ## Program:
 ```
 /*
@@ -92,9 +98,33 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
+1. compute cost value
+
+
+![image](https://github.com/neha074/Implementation-of-Simple-Linear-Regression-Model-Using-Gradient-descent/assets/113016903/5cfc45b6-372a-47d8-a1e8-98ae3110b358)
+
+2. h(x) value
+
+![image](https://github.com/neha074/Implementation-of-Simple-Linear-Regression-Model-Using-Gradient-descent/assets/113016903/79daa07a-1f95-4f79-93ac-dd840495aad8)
+
+3. cost function using gradient descent graph
 ![linear regression using gradient descent](ex3.png)
+
+
+4. Profit prediction graph
+
+
 ![linear regression using gradient descent](ex33.png)
+
+
+5. profit for the population 35,000
+
+
 ![linear regression using gradient descent](exp34.png)
+
+6. Profit for the population 70,0000
+
+
 ![linear regression using gradient descent](exp35.png)
 
 
